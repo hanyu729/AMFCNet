@@ -21,17 +21,17 @@ We propose an Attention-guided Multi-scale Feature Cascade Network (AMFCNet), wh
 **For training/inference, please go to [here](https://github.com/hanyu729/AMFCNet/raw/main/AMFCNet/readme)**
 
 # 4. Result
-# 4.1 Comparison experiments.
+# 4.1 Comparison experiments
 | ![Image 4](https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig3.png) |
 |--------------------------------------------|
 | *Figure 3: The visualization results of three scenarios are presented: columns 1-2 depict scenes with uneven lighting, columns 3-4 show scenes with impurity interference, and columns 5-6 represent scenes with different water bodies. The ground truth and predicted results are displayed in the bottom-left corner of each case.*       |
 
-# 4.2 Varying densities experiments.
+# 4.2 Varying densities experiments
 | ![Image 5](https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig4.png) |
 |--------------------------------------------|
 | *Figure 4: Comparison of the prediction error fluctuations for different fish densities. The x-axis represents the index value (i) of the i-th image, while the y-axis indicates the prediction error for the i-th image. As observed from (a), the proposed method effectively addresses some challenging cases, with the overall error fluctuation stabilizing.*       |
 
-# 4.3 Generalization experiments. 
+# 4.3 Generalization experiments
 | ![Image 6](https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig5.png) |
 |--------------------------------------------|
 | *Figure 5: Qualitative comparison of various methods on the Orange Chromide dataset. Rows 1-2 illustrate examples of scale variation, while rows 3-4 demonstrate examples of noise interference.*       |
