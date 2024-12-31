@@ -32,7 +32,7 @@ We propose an Attention-guided Multi-scale Feature Cascade Network (AMFCNet), wh
 | *Figure 4: Comparison of the prediction error fluctuations for different fish densities. The x-axis represents the index value (i) of the i-th image, while the y-axis indicates the prediction error for the i-th image. As observed from (a), the proposed method effectively addresses some challenging cases, with the overall error fluctuation stabilizing.*       |
 
 # 4.3 Generalization experiments. 
-| ![Image 6](https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig6.png) |
+| ![Image 6](https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig5.png) |
 |--------------------------------------------|
 | *Figure 5: Qualitative comparison of various methods on the Orange Chromide dataset. Rows 1-2 illustrate examples of scale variation, while rows 3-4 demonstrate examples of noise interference.*       |
 
