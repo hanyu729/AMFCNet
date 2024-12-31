@@ -1,8 +1,8 @@
 # AMFCNet: Attention-guided Multi-scale Feature Cascade Network for Underwater Fish Counting
 <table>
   <tr>
-    <td><img src="https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig1a.png" alt="Image 1" width="300"/></td>
-    <td><img src="https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig1b.png" alt="Image 2" width="300"/></td>
+    <td><img src="https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig1a.png" alt="Image 1" width="450"/></td>
+    <td><img src="https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig1b.png" alt="Image 2" width="450"/></td>
   </tr>
 </table>
 As shown in Fig. 1, fish counting research can be classified into two categories based on different data collection locations: underwater and non-underwater fish counting. Non-underwater Fish Counting (NFC) methods typically involve deploying cameras above controlled environments, such as water tanks or buckets, to collect data. However, methods developed for such environments are often not directly applicable to open water or more complex conditions. NFC has high requirements on water clarity, lighting conditions, and water flow fluctuations, necessitating the use of specialized equipment. 
