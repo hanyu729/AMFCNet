@@ -12,3 +12,4 @@ The proposed UFCFish dataset contains 1,172 high-quality images, annotated with 
 | ![Image 3](https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig2.png) |
 |--------------------------------------------|
 | *Figure 2: Example images from the proposed UFCFish dataset. From the left to the right column: samples with uneven lighting, samples with bubble impurities, samples from various water bodies, and samples with different fish densities.*       |
+<mark> Download links to our datasets will be publicly available soon! </mark>
