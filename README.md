@@ -20,3 +20,11 @@ We propose an Attention-guided Multi-scale Feature Cascade Network (AMFCNet), wh
 
 **For training/inference, please go to [here](https://github.com/hanyu729/AMFCNet/raw/main/AMFCNet/readme)**
 
+# 4. Result
+# 4.1 Comparison experiments.
+
+# 4.2 Varying densities experiments.
+
+# 4.3 Generalization experiments. 
+
+
