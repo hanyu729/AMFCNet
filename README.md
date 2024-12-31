@@ -1,11 +1,11 @@
 # AMFCNet: Attention-guided Multi-scale Feature Cascade Network for Underwater Fish Counting
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <figure style="text-align: center; margin: 10px;">
-    <img src="https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig1a.png" alt="Image 1" width="300">
+    <img src="https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig1a.png" alt="Image 1" width="500">
     <figcaption>Figure 1a: Description of Image 1</figcaption>
   </figure>
   <figure style="text-align: center; margin: 10px;">
-    <img src="https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig1b.png" alt="Image 2" width="300">
+    <img src="https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig1b.png" alt="Image 2" width="500">
     <figcaption>Figure 1b: Description of Image 2</figcaption>
   </figure>
 </div>
