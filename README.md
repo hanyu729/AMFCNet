@@ -9,4 +9,6 @@ In contrast, Underwater Fish Counting (UFC) methods involve placing cameras dire
 
 # 2. UFCFish dataset
 The proposed UFCFish dataset contains 1,172 high-quality images, annotated with 152,596 points. Among them, 226 images show highly dense scenes, with more than 200 fish in each image. To standardize the benchmarking on UFCFish, the dataset is randomly divided into three non-overlapping subsets: train (703 images), validation (175 images), and test (294 images). Within each subset, the distribution of images across different density ranges closely matches the overall distribution.
-
+| ![Image 3](https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig2.png) |
+|--------------------------------------------|
+| *Figure 2: Example images from the proposed UFCFish dataset. From the left to the right column: samples with uneven lighting, samples with bubble impurities, samples from various water bodies, and samples with different fish densities.*       |
