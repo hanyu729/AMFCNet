@@ -1,4 +1,5 @@
 # AMFCNet: Attention-guided Multi-scale Feature Cascade Network for Underwater Fish Counting
+#1. Underwater Fish Counting
 | ![Image 1](https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig1a.png) | ![Image 2](https://github.com/hanyu729/AMFCNet/raw/main/Figs/fig1b.png) |
 |--------------------------------------------|--------------------------------------------|
 | *Figure 1a: Non-underwater fish counting. The custom-built enclosed environment features clear water quality, uniform lighting, and consistent fish size.*        | *Figure 1b: Underwater fish counting. The open environment is characterized by turbid water quality, uneven lighting, and varying fish sizes.*        |
