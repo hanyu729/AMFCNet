@@ -36,3 +36,5 @@ We propose an Attention-guided Multi-scale Feature Cascade Network (AMFCNet), wh
 |--------------------------------------------|
 | *Figure 5: Qualitative comparison of various methods on the Orange Chromide dataset. Rows 1-2 illustrate examples of scale variation, while rows 3-4 demonstrate examples of noise interference.*       |
 
+# 5. Conclusions
+In summary, the proposed method has significant potential for practical applications in aquaculture (e.g., in marine ranching, pond farming) to assess fish growth conditions and adjust feeding strategies accordingly.
