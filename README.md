@@ -13,7 +13,7 @@ The proposed UFCFish dataset contains 1,172 high-quality images, annotated with 
 |--------------------------------------------|
 | *Figure 2: Example images from the proposed UFCFish dataset. From the left to the right column: samples with uneven lighting, samples with bubble impurities, samples from various water bodies, and samples with different fish densities.*       |
 
-**Download links to our datasets will be publicly available soon!**
+**To download UFCFish, please visit the [link](https://caueducn-my.sharepoint.com/:u:/g/personal/hanyuu_cau_edu_cn/EQat8iRyix1Bg9makWWwZ6ABJTBRAmvz2Zh2XwBd0pizMw?e=Ev89gk)！**
 
 # 3. AMFCNet method
 We propose an Attention-guided Multi-scale Feature Cascade Network (AMFCNet), which facilitates information flow and enhancement between different stages of the network through Multi-scale Attention Gate (MSAG) and Multi-scale Convolution Module (MSCM), and utilizes a Multi-head Supervision Fusion Strategy (MSFS) to generate high-quality density maps, enabling accurate underwater fish counting.
